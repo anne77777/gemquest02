@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea33728b2213b947ae816b77a3cd175, type: 3}
+  m_Name: JellyDice
+  m_EditorClassIdentifier: 
+  PowerUpName: Gummy Dice
+  PowerUpDescription: Allows you to pick the value of your die roll.
+  PowerUpIconImage: {fileID: 21300000, guid: 38bb8018bd3fe16468028e7699c2edca, type: 3}
+  PowerUpContentImage: {fileID: 21300000, guid: 95def0589c025ae4f98ead34190cf847,
+    type: 3}

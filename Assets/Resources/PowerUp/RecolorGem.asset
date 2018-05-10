@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f32c0b68955a484b8c47fbcdcc882e9, type: 3}
+  m_Name: RecolorGem
+  m_EditorClassIdentifier: 
+  PowerUpName: Rainbow Fountain Water
+  PowerUpDescription: Allows you to change any player's key colour, including your
+    own, to a different colour.
+  PowerUpIconImage: {fileID: 21300000, guid: c35f939918a1f594597971027dc58772, type: 3}
+  PowerUpContentImage: {fileID: 21300000, guid: cc3a32ab081953141854ea409ef9a135,
+    type: 3}
